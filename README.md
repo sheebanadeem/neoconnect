@@ -14,6 +14,19 @@ Backend (Render):
 ```bash
 https://neoconnect-yui5.onrender.com
 ```
+
+## Images
+## Login Page
+
+![Login Page](screenshots/dashboard.png)
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+## Submit Complaint
+
+![Submit Complaint](screenshots/submit-case.png)
 ## Demo Accounts
 
 Use the following accounts to explore different roles in the system:
