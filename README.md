@@ -24,9 +24,29 @@ https://neoconnect-yui5.onrender.com
 
 ![Complain Submission](Screenshots/submit.png)
 
-## Submit Complaint
+## Staff Polls
 
-![Submit Complaint](screenshots/submit-case.png)
+![Staff Polls](Screenshots/staff-polls.png)
+
+## Public Transparency Hub
+
+![Staff Polls](Screenshots/hub.png)
+
+## Create Poll
+
+![Staff Polls](Screenshots/create-polls.png)
+
+## Case Inbox
+
+![Staff Polls](Screenshots/case-inbox.png)
+
+## Case Manager
+
+![Staff Polls](Screenshots/case-manager.png)
+
+## Tracks
+
+![Staff Polls](Screenshots/track.png)
 ## Demo Accounts
 
 Use the following accounts to explore different roles in the system:
