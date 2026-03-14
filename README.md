@@ -3,12 +3,13 @@
 NeoConnect is a civic engagement and complaint management platform that enables citizens to submit complaints, track their progress, and participate in public discussions through polls and community interactions.
 
 The platform improves transparency, accountability, and communication between citizens and authorities.
-
-Live Demo
+---
+## Live Demo
 
 Frontend (Vercel):
+''' bash
 https://neoconnect-opal.vercel.app
-
+'''
 Backend (Render):
 https://neoconnect-yui5.onrender.com
 
