@@ -7,66 +7,67 @@ The platform improves transparency, accountability, and communication between ci
 ## Live Demo
 
 Frontend (Vercel):
-''' bash
+```bash
 https://neoconnect-opal.vercel.app
-'''
+```
 Backend (Render):
+```bash
 https://neoconnect-yui5.onrender.com
-
-Demo Accounts
+```
+## Demo Accounts
 
 Use the following accounts to explore different roles in the system:
 
-Staff
+### Staff
 
-Email: staff@test.com
-Password: 123456
+-Email: staff@test.com
+-Password: 123456
 
-Secretariat
+### Secretariat
 
-Email: secretariat@test.com
-Password: 123456
+-Email: secretariat@test.com
+-Password: 123456
 
-Case Manager
+### Case Manager
 
-Email: manager@test.com
-Password: 123456
-Features
-Authentication & Security
+-Email: manager@test.com
+-Password: 123456
+## Features
+-Authentication & Security
 
-JWT-based authentication
+-JWT-based authentication
 
-Role-based access control
+-Role-based access control
 
-Protected routes
+-Protected routes
 
-Complaint Management
+-Complaint Management
 
-Submit complaints
+-Submit complaints
 
-Generate unique tracking IDs
+-Generate unique tracking IDs
 
-Track complaint progress
+-Track complaint progress
 
-Case management dashboard
+-Case management dashboard
 
-Public Participation
+-Public Participation
 
-Poll creation and voting
+-Poll creation and voting
 
-Public hub for discussions
+-Public hub for discussions
 
-Community engagement
+-Community engagement
 
-Analytics
+-Analytics
 
-Complaint category analytics
+-Complaint category analytics
 
-Department-level insights
+-Department-level insights
 
-Hotspot analysis
+-Hotspot analysis
 
-Tech Stack
+## Tech Stack
 Frontend
 
 Next.js
@@ -99,7 +100,7 @@ Backend: Render
 
 Database: MongoDB Atlas
 
-System Architecture
+## System Architecture
 User
  ↓
 Frontend (Next.js - Vercel)
@@ -109,7 +110,7 @@ REST API
 Backend (Node.js / Express - Render)
  ↓
 Database (MongoDB Atlas)
-Project Structure
+##Project Structure
 neoconnect/
 │
 ├── frontend/
@@ -125,32 +126,36 @@ neoconnect/
 │   └── server.js
 │
 └── README.md
-Installation
+## Installation
 Clone the repository
+```bash
 git clone https://github.com/sheebanadeem/neoconnect.git
 cd neoconnect
-Backend Setup
+```
+## Backend Setup
+```
 cd backend
 npm install
-
-Create .env file:
-
+```
+## Create .env file:
+```
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
-
-Run backend:
-
+```
+## Run backend:
+```
 npm start
 Frontend Setup
 cd frontend
 npm install
 npm run dev
-
+```
 Frontend runs on:
-
+```
 http://localhost:3000
-Future Improvements
+```
+## Future Improvements
 
 AI-based complaint categorization
 
@@ -162,12 +167,9 @@ Geo-based complaint heatmaps
 
 Advanced analytics dashboard
 
-Author
+# Author
 
-Sheeba Nadeem
-
-B.Tech CSE (Big Data Analytics)
-SRM Institute of Science and Technology
+## Sheeba Nadeem
 
 GitHub:
 https://github.com/sheebanadeem
