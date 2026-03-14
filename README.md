@@ -20,9 +20,9 @@ https://neoconnect-yui5.onrender.com
 
 ![Login Page](Screenshots/dashboard.png)
 
-## Dashboard
+## Complaint Form
 
-![Dashboard](screenshots/dashboard.png)
+![Complain Submission](Screenshots/submit.png)
 
 ## Submit Complaint
 
