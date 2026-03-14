@@ -34,7 +34,7 @@ https://neoconnect-yui5.onrender.com
 
 ## Create Poll
 
-![Staff Polls](Screenshots/create-polls.png)
+![Staff Polls](Screenshots/create-poll.png)
 
 ## Case Inbox
 
