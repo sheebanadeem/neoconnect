@@ -18,7 +18,7 @@ https://neoconnect-yui5.onrender.com
 ## Images
 ## Login Page
 
-![Login Page](screenshots/dashboard.png)
+![Login Page](Screenshots/dashboard.png)
 
 ## Dashboard
 
