@@ -20,13 +20,13 @@ Use the following accounts to explore different roles in the system:
 
 ### Staff
 
--Email: staff@test.com
--Password: 123456
+- Email: staff@test.com
+- Password: 123456
 
 ### Secretariat
 
--Email: secretariat@test.com
--Password: 123456
+- Email: secretariat@test.com
+- Password: 123456
 
 ### Case Manager
 
