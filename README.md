@@ -30,8 +30,8 @@ Use the following accounts to explore different roles in the system:
 
 ### Case Manager
 
--Email: manager@test.com
--Password: 123456
+- Email: manager@test.com
+- Password: 123456
 ## Features
 -Authentication & Security
 
